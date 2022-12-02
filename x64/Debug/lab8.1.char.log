@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.char\Source.cpp(16,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.char\Source.cpp(27,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab8.1.char.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.char\x64\Debug\lab8.1.char.exe
