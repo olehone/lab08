@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.rec\Source.cpp(11,10): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.rec\Source.cpp(18,2): error C3861: 'Find2': identifier not found
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.rec\Source.cpp(43,2): error C3861: 'Change2': identifier not found
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Восьма\code\lab8.1.rec\Source.cpp(44,2): error C3861: 'Copy': identifier not found
